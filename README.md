@@ -2,7 +2,7 @@
 Pantry is a sleek, minimalistic Recipe Storer App that uses Material UI, 
 Flutter, and Firebase.
 
-![Alt Text](https://maija.xyz/2021/rit/Pantry.gif)
+![Walk through of the Pantry App](https://maija.xyz/2021/rit/pantrySmaller.gif)
 
 Current Functionality of the App
 --
